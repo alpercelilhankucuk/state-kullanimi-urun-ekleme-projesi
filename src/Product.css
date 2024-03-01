@@ -1,0 +1,9 @@
+.product{
+    width: 350px;
+}
+.productDiv{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
